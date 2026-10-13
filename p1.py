@@ -1,4 +1,4 @@
-# Libreria estandar
+# Librería estandar
 import time
 
 # Librería de terceros
