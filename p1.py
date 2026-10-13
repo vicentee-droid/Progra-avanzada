@@ -1,7 +1,7 @@
 # Libreria estandar
 import time
 
-# Libreria de terceros
+# Librería de terceros
 import numpy as np
 
 
